@@ -6,7 +6,7 @@ El objetivo principal de esta plataforma es centralizar, estructurar y clarifica
 
 ---
 
-## 🛠️ Proceso de Desarrollo y Metodología de Trabajo
+## Proceso de Desarrollo y Metodología de Trabajo
 
 Para construir una plataforma precisa, sin omisiones y alineada a las exigencias académicas reales, se siguió un proceso riguroso de extracción, análisis e integración de información dividida en tres pilares principales:
 
@@ -36,7 +36,7 @@ Se diseñó e implementó la interfaz HTML/CSS respetando la identidad visual in
 
 ---
 
-## 📋 Estructura General del Proceso (Resumen)
+## Estructura General del Proceso (Resumen)
 
 1. **Lineamientos de Reportes:** Registro mensual entre 120 h y 190 h acumulativas.
 2. **Tabla de Penalizaciones:**
@@ -53,7 +53,7 @@ Se diseñó e implementó la interfaz HTML/CSS respetando la identidad visual in
 
 ---
 
-## 📞 Contacto y Soporte Institucional
+## Contacto y Soporte Institucional
 
 * **Departamento:** Prácticas Profesionales FIC UAS
 * **Responsable:** Dra. Yareli López Sotelo
